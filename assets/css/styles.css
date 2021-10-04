@@ -804,6 +804,7 @@ img{
 }
 
 .project__title{
+    text-transform: uppercase;
     font-size: var(--h2-font-size);
     margin-bottom: var(--mb-0-75);
 }
